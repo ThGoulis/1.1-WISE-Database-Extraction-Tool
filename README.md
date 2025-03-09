@@ -18,7 +18,7 @@ The tool processes water body information by country and generates CSV reports.
 ## 🛠️ Installation
 ### 1️⃣ **Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/WISE-Extraction-Tool.git
+git clone https://github.com/ThGoulis/WISE-Extraction-Tool.git
 cd WISE-Extraction-Tool
 ```
 
