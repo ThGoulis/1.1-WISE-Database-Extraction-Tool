@@ -9,6 +9,8 @@ This project is a **Python-based tool** for extracting and processing **WISE wat
 
 ✅ **User-Friendly GUI** using `ttkbootstrap` (`gui_extraction.py`)
 
+📚 WISE Database Source: [European Environment Agency (EEA) WISE-WFD Database](https://www.eea.europa.eu/data-and-maps/data/wise-wfd-4/wise-wfd-database-1)
+
 The tool processes water body information by country and generates CSV reports.
 
 ---
@@ -83,5 +85,4 @@ Pull requests are welcome! Feel free to submit issues and suggestions.
 ---
 
 ## 📝 License
-MIT License. See `LICENSE` file for details.
 
